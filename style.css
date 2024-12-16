@@ -416,7 +416,7 @@ svg {
 
 @media only screen and (max-width: 1281px) {
   body {
-    max-width: 1014px;
+    max-width: 1024px;
   }
 
   #hero img {
@@ -434,6 +434,10 @@ svg {
   .btn--big {
     padding: 12px 34px;
     font-size: 18px;
+  }
+
+  .special-features {
+    gap: 80px;
   }
 
   .tr2 {
