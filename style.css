@@ -402,7 +402,7 @@ svg {
 
 @media only screen and (max-width: 1439px) {
   body {
-    max-width: 1280px;
+    max-width: 1270px;
   }
 
   .heading-hearo {
@@ -414,9 +414,9 @@ svg {
   }
 }
 
-@media only screen and (max-width: 1279px) {
+@media only screen and (max-width: 1281px) {
   body {
-    max-width: 1024px;
+    max-width: 1014px;
   }
 
   #hero img {
@@ -481,9 +481,9 @@ svg {
   }
 }
 
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 1025px) {
   body {
-    max-width: 768px;
+    max-width: 758px;
   }
 
   .nav-text {
