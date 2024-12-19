@@ -545,6 +545,10 @@ svg {
     gap: 24px;
   }
 
+  #tesitmonials img {
+    width: 350px;
+  }
+
   #products img {
     width: 250px;
     height: 250px;
